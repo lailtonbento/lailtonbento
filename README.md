@@ -1,6 +1,5 @@
 <h1 align="center">< Hey!, I'm Lailton Bento /></h1>
 <h3 align="center">Welcome!</h3>
-:computer: I'm Front-End Developer!
 
 - :computer: I'm Programming Student.
 
