@@ -5,7 +5,7 @@
 
 - :house_with_garden: I’m from Brazil.
 
-- :outbox_tray: 2021 Goals: create a new project and find a new job.
+- :outbox_tray: Goals: Create a new project and find a new job.
 
 - 🌱 I’m currently learning **Java, Spring Boot, MySql**
 
