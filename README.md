@@ -1,13 +1,13 @@
 <h1 align="center">< Hey!, I'm Lailton Bento /></h1>
 <h3 align="center">Welcome!</h3>
 
-- :computer: I'm Programming Student.
+- :computer: I'm a programming student.
 
 - :house_with_garden: I’m from Brazil.
 
 - :outbox_tray: Goals: Create a new project and find a new job.
 
-- 🌱 I’m currently learning **Java, Spring Boot, MySql**
+- 🌱 I’m currently learning Java, Spring Boot and PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lailtonbento](https://github.com/lailtonbento)
 
