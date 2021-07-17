@@ -7,7 +7,7 @@
 
 - :outbox_tray: Goals: Create a new project and find a new job.
 
-- 🌱 I’m currently learning Java, Spring Boot and PostgreSQL**
+- 🌱 I’m currently learning Java, Spring Boot and PostgreSQL.
 
 - 👨‍💻 All of my projects are available at [https://github.com/lailtonbento](https://github.com/lailtonbento)
 
