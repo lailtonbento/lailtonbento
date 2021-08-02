@@ -6,7 +6,6 @@
 - :house_with_garden: I’m from Brazil.
 - 🌱 I’m currently learning Java, Spring Boot and PostgreSQL.
 - 👨‍💻 All my projects: [https://github.com/lailtonbento](https://github.com/lailtonbento)
-- 📫 How to reach me: **lailton.bentto@gmail.com**
 ##
 <h4 align="left">👤 About me:</h4>
   <a href="https://www.linkedin.com/in/lailton-bento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
