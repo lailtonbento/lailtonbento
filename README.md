@@ -5,8 +5,8 @@
 - :computer: I'm a programming student.
 - :house_with_garden: I’m from Brazil.
 - 🌱 I’m currently learning Java, Spring Boot and PostgreSQL.
-- 👨‍💻 All of my projects are available at [https://github.com/lailtonbento](https://github.com/lailtonbento)
-- 📫 How to reach me **lailton.bentto@gmail.com**
+- 👨‍💻 All my projects: [https://github.com/lailtonbento](https://github.com/lailtonbento)
+- 📫 How to reach me: **lailton.bentto@gmail.com**
 ##
 <h4 align="left">👤 About me:</h4>
   <a href="https://www.linkedin.com/in/lailton-bento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -21,10 +21,15 @@
   <img align="center" alt="lb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
-<br/><br/>
+<br/>
   
 📈 **My GitHub Stats:**
 <p>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lailtonbento&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailtonbento&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lailton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailtonbento&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme="/>
 </p>
+
+
+
+
+
