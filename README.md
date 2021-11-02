@@ -4,7 +4,7 @@
 
 - :computer: I'm a programming student.
 - :house_with_garden: I’m from Brazil.
-- 🌱 I’m currently learning Java, Spring Boot and PostgreSQL.
+- 🌱 I’m currently learning Java, Spring Boot and Angular.
 - 👨‍💻 All my projects: [https://github.com/lailtonbento](https://github.com/lailtonbento)
 ##
 <h4 align="left">👤 About me:</h4>
@@ -15,10 +15,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="lb-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="lb-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="lb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="lb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="lb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
 </div>
 <br/>
   
