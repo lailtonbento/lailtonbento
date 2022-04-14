@@ -5,7 +5,7 @@
 - :computer: I'm a programming student.
 - :house_with_garden: I’m from Brazil.
 - 🌱 I’m currently learning Java, Spring Boot and Angular.
-- 👨‍💻 All my projects: [https://github.com/lailtonbento](https://github.com/lailtonbento)
+- 👨‍💻 All my projects: [https://github.com/lailtonbento?tab=repositories)
 ##
 <h4 align="left">👤 About me:</h4>
   <a href="https://www.linkedin.com/in/lailton-bento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
