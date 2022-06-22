@@ -4,7 +4,7 @@
 
 - :computer: I'm a programming student.
 - :house_with_garden: I’m from Brazil.
-- 🌱 I’m currently learning Java, Spring Boot and Angular.
+- 🌱 I’m currently learning Java, Framework Spring Boot and JavaScript/TypeScript (Angular).
 - 👨‍💻 All my projects: [https://github.com/lailtonbento?tab=repositories)
 ##
 <h4 align="left">👤 About me:</h4>
