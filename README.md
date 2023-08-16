@@ -2,7 +2,7 @@
 <h4 align="center">Welcome!</h4>
 
 
-- :computer: I'm a professional developer with 1 year experience with software development.
+- :computer: I'm a professional developer with 1 year of experience in software development.
 - :house_with_garden: I’m from Brazil.
 - 🌱 I’m currently learning AWS, Java, Framework Spring Boot.
 - 👨‍💻 All my projects: [https://github.com/lailtonbento?tab=repositories)
