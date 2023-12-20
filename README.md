@@ -4,7 +4,7 @@
 
 - :computer: I'm a professional developer with 1 year of experience in software development.
 - :house_with_garden: I’m from Brazil.
-- 🌱 I’m currently learning AWS, CI/CD, DevOps Tools, Microsservices.
+- 🌱 I’m currently learning AWS, CI/CD, DevOps Tools, Microservices.
 - 👨‍💻 All my projects: [https://github.com/lailtonbento?tab=repositories)
 ##
 <h4 align="left">👤 About me:</h4>
